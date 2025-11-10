@@ -40,8 +40,8 @@ It demonstrates my ability to:
 - Combine SQL and BI tools to extract meaningful insights
 
 ## Project Files
-- `/data` – all CSV files  
+- `/data` – CSV file  
 - `/queries` – SQL query files  
-- `/bi` – Power BI (PBIX) files  
+- `/part3` – Power BI (PBIX) files  
 - `README.md` – project documentation  
 
